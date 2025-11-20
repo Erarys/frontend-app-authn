@@ -18,9 +18,9 @@ const messages = defineMessages({
         defaultMessage: 'Register',
         description: 'Text that appears on the tab to switch between login and register',
     },
-    'logistration.univer1': {
+    'logistration.univer': {
         id: 'logistration.univer',
-        defaultMessage: 'Вход Univer',
+        defaultMessage: 'Login Univer',
         description: 'Text that appears on the tab to switch between login and register',
     },
     // enterprise sso strings
