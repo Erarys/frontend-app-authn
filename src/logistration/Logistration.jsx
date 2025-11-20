@@ -137,7 +137,7 @@ const Logistration = ({
                           id="controlled-tab"
                           onSelect={(tabKey) => {
                               if (tabKey === 'oauth-login'){
-                                  window.location.href = '/oauth-login';
+                                  window.location.href = 'https://univer.kaznu.kz/user/loginopenkaznu';
                                   return;
                               }
 
