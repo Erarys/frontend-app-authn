@@ -135,7 +135,7 @@ const Logistration = (props) => {
 
                           <Tab title={formatMessage(messages['logistration.register'])} eventKey={REGISTER_PAGE}/>
                           <Tab title={formatMessage(messages['logistration.sign.in'])} eventKey={LOGIN_PAGE}/>
-                          <Tab title={formatMessage(messages['logistration.univer'])} eventKey="oauth-login"/>
+                          <Tab title={formatMessage(messages['logistration.univer1'])} eventKey="oauth-login"/>
                       </Tabs>
                 ))}
               { key && key !== 'oauth-login' && (
