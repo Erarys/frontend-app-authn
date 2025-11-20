@@ -52,6 +52,11 @@ $elevation-level-2-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.15);
   width: 12rem;
 }
 
+.pgn-tab:focus {
+  outline: none;
+  box-shadow: none;
+}
+
 .tpa-skeleton {
   margin-bottom: 0.75rem;
 }
